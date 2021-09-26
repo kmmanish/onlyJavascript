@@ -16,7 +16,7 @@ Manish = Manish - 6;
 
 if (Manish == Mohit)
 {
-    console.log('Both Manish and Mohit have same mangoes')
+    console.log("Both Manish and Mohit have same mangoes")
     Mohit = Mohit-1;
     Manish = Manish+1;
 }
