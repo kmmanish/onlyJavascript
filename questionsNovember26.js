@@ -19,5 +19,6 @@
   A. from delhi airport you will have to take uber to mayur vihar then walk from mayur vihar to akshardham
   B. from delhi bus stand, take an auto rickshaw to go to seelampur metro station.
             from seelamput metro station take metro to akshardham station. from akshardham station walk to akshardham
-  C. from delhi railway station, walk to the nearest metro station. Take metro to cannaught place station. from there take rickshaw to akshardham
+  C. from delhi railway station, walk to the nearest metro station. Take metro to cannaught place station.
+            from there take rickshaw to akshardham. Walk to akshardham
  */
