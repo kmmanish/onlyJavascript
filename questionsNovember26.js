@@ -22,3 +22,27 @@
   C. from delhi railway station, walk to the nearest metro station. Take metro to cannaught place station.
             from there take rickshaw to akshardham. Walk to akshardham
  */
+
+
+
+transport = ['plane', 'bus', 'train'];
+
+choice1 = 'Take autorickshaw to seelampur metro.'
+choice2 = 'Take metro to akshardham station.'
+choice3 = 'Walk to akshardham.'
+
+route = '';
+
+option = 'boat';
+
+if (option == transport[1])
+{
+    route = choice1 + choice2 + choice3;
+}
+else
+{
+    route = 'Cannot go';
+}
+
+
+console.log(route);
